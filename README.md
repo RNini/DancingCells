@@ -5,5 +5,5 @@ Scripts and other goodies for analyzing cell-cell interactions
   #1) Image pre-processing
   #2) Data mining from coordinate data
 
-##The code can be downloaded from the 'branch' section of this repository
+##The code can be downloaded from the 'branches' section of this repository
   #Note: User modifications may be necessary based on the nature of the data and the tracking software/plugin used.
